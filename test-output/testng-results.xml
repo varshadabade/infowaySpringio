@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67" started-at="2019-06-14T10:35:04Z" finished-at="2019-06-14T10:35:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67" started-at="2019-06-14T10:35:04Z" finished-at="2019-06-14T10:35:04Z">
+      <class name="com.info.Infoway.InfowayApplicationTests">
+        <test-method status="PASS" signature="contextLoads()[pri:0, instance:com.info.Infoway.InfowayApplicationTests@146ba0ac]" name="contextLoads" duration-ms="20" started-at="2019-06-14T10:35:04Z" finished-at="2019-06-14T10:35:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contextLoads -->
+      </class> <!-- com.info.Infoway.InfowayApplicationTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
